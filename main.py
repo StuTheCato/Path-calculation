@@ -1,4 +1,4 @@
-Speed = input("Type your speed (km/h): ")
+speed = input("Type your speed (km/h): ")
 reactionTime = int(Speed) / 10 * 3
 breakTime = reactionTime * 2
 stopTime = reactionTime + breakTime
